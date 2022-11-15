@@ -1,0 +1,96 @@
+{
+  "name": "app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@babel/preset-env": "^7.12.16",
+    "@babel/preset-react": "^7.12.13",
+    "@babel/register": "^7.12.13",
+    "@chakra-ui/icons": "^1.0.14",
+    "@chakra-ui/react": "^1.3.2",
+    "@emotion/react": "^11.1.5",
+    "@emotion/styled": "^11.1.5",
+    "@fortawesome/fontawesome-svg-core": "^1.2.35",
+    "@fortawesome/free-solid-svg-icons": "^5.15.3",
+    "@fortawesome/react-fontawesome": "^0.1.14",
+    "@testing-library/jest-dom": "^5.11.9",
+    "@testing-library/react": "^11.2.5",
+    "@testing-library/user-event": "^12.7.0",
+    "auto-breadcrumb": "^1.3.0",
+    "axios": "^0.21.1",
+    "bootstrap": "^5.1.1",
+    "express": "^4.17.1",
+    "ignore-styles": "^5.0.1",
+    "image-exists": "^1.1.0",
+    "react": "^17.0.1",
+    "react-advanced-form": "^1.7.2",
+    "react-advanced-form-addons": "^1.3.3",
+    "react-bootstrap": "^1.5.2",
+    "react-bootstrap-table-next": "^4.0.3",
+    "react-bootstrap-table2-paginator": "^2.1.2",
+    "react-bootstrap-typeahead": "^5.1.4",
+    "react-breadcrumbs-dynamic": "^1.2.1",
+    "react-credit-cards": "^0.8.3",
+    "react-currency-format": "^1.0.0",
+    "react-data-preview": "^1.0.0",
+    "react-dom": "^17.0.1",
+    "react-dropzone": "^11.3.2",
+    "react-facebook-login": "^4.1.1",
+    "react-google-login": "^5.2.2",
+    "react-icons": "^4.2.0",
+    "react-messenger-customer-chat": "^0.8.0",
+    "react-number-format": "^4.4.4",
+    "react-paginate": "^7.1.0",
+    "react-rating-stars-component": "^2.2.0",
+    "react-ratings-declarative": "^3.4.1",
+    "react-redux": "^7.2.1",
+    "react-responsive": "^8.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.2",
+    "react-share": "^4.4.0",
+    "react-slick": "^0.28.0",
+    "react-star-ratings": "^2.3.0",
+    "react-through": "^1.1.4",
+    "react-tooltip": "^4.2.17",
+    "redux": "^4.0.5",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-thunk": "^2.3.0",
+    "slick-carousel": "^1.8.1",
+    "validator": "^13.5.2",
+    "web-vitals": "^1.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-plugin-transform-es2015-modules-amd": "^6.24.1",
+    "babel-preset-env": "^1.7.0",
+    "framer-motion": "^3.6.7",
+    "grunt-babel": "^8.0.0",
+    "grunt-react": "^0.12.3",
+    "react-helmet": "^6.1.0",
+    "react-hook-form": "^6.15.5"
+  }
+}
